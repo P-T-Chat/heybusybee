@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/heybusybee/static/css/main.bf429065.css",
+    "main.js": "/heybusybee/static/js/main.460fb43c.js",
+    "static/js/453.a692bddf.chunk.js": "/heybusybee/static/js/453.a692bddf.chunk.js",
+    "static/media/edited.mov": "/heybusybee/static/media/edited.8eaac6ad37fd1a00b073.mov",
+    "static/media/giphy.webp": "/heybusybee/static/media/giphy.1a53fbd8dceeedeb943b.webp",
+    "static/media/logo.svg": "/heybusybee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/heybusybee/index.html",
+    "main.bf429065.css.map": "/heybusybee/static/css/main.bf429065.css.map",
+    "main.460fb43c.js.map": "/heybusybee/static/js/main.460fb43c.js.map",
+    "453.a692bddf.chunk.js.map": "/heybusybee/static/js/453.a692bddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf429065.css",
+    "static/js/main.460fb43c.js"
+  ]
+}
