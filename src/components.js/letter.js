@@ -97,9 +97,9 @@ const Letter = () => {
         </button>
       ) : (
         <div className="message">
-          Bangarammmmmmmmmmm ❤️<br />
-          <br />chaalaaaa kastapaduthunavvvvvvvvv 🥺<br />
-          always yours,<br />
+          Hey Handsome, Bangarammmmmmmmmmm ❤️<br />
+          <br />chaalaaaa kastapaduthunavvvvvvvvv 🥺 work lo career lo, I'm super proud of youuuuuuu 👏 <br />
+           Luckyyy to have youuuuuuu, naa mood swings ni baristhunanndukuu thanksssssss a lotttttt❤️ I love youuuuuuuuu forever ♾️<br />
           Tejasa 💌
         </div>
       )}
