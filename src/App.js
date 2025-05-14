@@ -6,7 +6,7 @@ function App() {
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
-    if (password === 'Bangaram') {
+    if (password === 'bangaram') {
       setAuthenticated(true);
     } else {
       alert('Wrong password!');
